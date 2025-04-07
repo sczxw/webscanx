@@ -65,7 +65,7 @@ The dependencies include:
 
 - `requests`  
 - `dnspython`  
-- `Wappalyzer`  
+- `builtwith`  
 - `wafw00f`  
 - `colorama`  
 
