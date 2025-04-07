@@ -381,7 +381,7 @@ def main():
 
     print(f"\n{Fore.BLUE}[+] Detecting WAF...{Style.RESET_ALL}")
     waf = detect_waf(url)
-    print(f"{Fore.GREEN}WAF detected: {Style.RESET_ALL}{waf}"
+    print(f"{Fore.GREEN}WAF detected: {Style.RESET_ALL}{waf}")
     print(f"\n{Fore.BLUE}[+] Bruteforcing directories...{Style.RESET_ALL}")
     bruteforce_directories(url, dir_wordlist)
 
