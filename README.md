@@ -87,9 +87,6 @@ chmod +x webscanx.py
 ```bash
 ./webscanx.py
 ```
-
-   You can also run the script from PowerShell using the same command.
-
 ---
 
 ## Deactivating the Virtual Environment
